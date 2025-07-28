@@ -1,0 +1,3 @@
+Hello again from Java NIO Channels!
+This text is written using explicit ByteBuffer and FileChannel operations.
+It demonstrates a more low-level approach.
