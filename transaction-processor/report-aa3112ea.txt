@@ -1,0 +1,10 @@
+Summary Report (Report ID: aa3112ea-f1e9-4c16-be72-11fa3bff094a)
+----------------------------------------
+Total Transactions: 1000
+- Success: 492
+- Failed: 508
+
+Top 3 Acquirers by Amount:
+  1. Perfect Pharma - ₦209,765,283.79
+  2. ALPHA CORP - ₦195,007,003.39
+  3. Victor Ltd. - ₦183,103,714.85
